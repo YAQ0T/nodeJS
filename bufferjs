@@ -1,0 +1,4 @@
+const buffer = new Buffer.from("Hello Mother Fucker");
+buffer.write("son Of A bitch");
+console.log(buffer.toString());
+console.log(buffer);

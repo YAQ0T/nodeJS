@@ -1,0 +1,10 @@
+{
+  "name": "greet-Ahmad SAlous",
+  "version": "1.0.0",
+  "description": "it print hello to the name u will pass",
+  "keywords": [
+    "greeting",
+    "byName"
+  ],
+  "main": "myPackage.js"
+}
